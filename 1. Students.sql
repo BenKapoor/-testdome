@@ -10,3 +10,10 @@ TABLE students
 SELECT count(firstName )
 FROM students
 WHERE firstName  = 'John'
+
+/**
+Output 
+**/
+count(firstName )    
+-----------------
+2                    
