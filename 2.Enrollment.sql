@@ -14,7 +14,7 @@ SET year = 2015
 WHERE id BETWEEN 20 AND 100
 
 /**
-Response
+Output
 
 2 rows affected.
 
