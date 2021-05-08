@@ -13,7 +13,8 @@ WHERE firstName  = 'John'
 
 /**
 Output 
-**/
+
 count(firstName )    
 -----------------
 2                    
+**/
